@@ -1,0 +1,33 @@
+
+	.nounderline:link  {  
+ 		text-decoration:none;  
+	}  
+
+	p {
+		color: blue;
+		font-size: 10px;
+	}
+
+	.intro {
+		color: green;
+		font-size: 15px;
+	}
+
+	div {
+		color: blue;
+		background-color: red;
+		text-align: center;
+		font-size: 50px;
+	}
+
+	.fun {
+		font-size: 20px;
+		padding: 20px;
+		margin-top: 10px;
+	}
+
+	.propersize {
+		float: left;
+		width: 25%;
+
+	}
