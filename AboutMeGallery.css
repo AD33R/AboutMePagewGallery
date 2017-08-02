@@ -31,3 +31,8 @@
 	width: 100%;
 }
 
+.billy-link{
+		position: fixed;
+		top: 50px;
+		right: 50px;
+	}
