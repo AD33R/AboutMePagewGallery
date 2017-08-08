@@ -40,3 +40,11 @@
 .headline{
 	font-family: helvetica;
 }
+ 
+// write a media query for max width 500 {
+
+.col {
+	width: 50%;
+}
+
+}
